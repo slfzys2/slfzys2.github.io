@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>第一个记录</title>
+      <link href="/2019/12/01/%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%AE%B0%E5%BD%95/"/>
+      <url>/2019/12/01/%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<p>在B站上看到Hexo和Github配合搭建个人博客的教程(<a href="https://www.bilibili.com/video/av75583535" target="_blank" rel="noopener">https://www.bilibili.com/video/av75583535</a>).</p><p>虽然完全不懂啥是啥,反正就按步骤尝试了一番.</p><p>从结果来看,视频教程,Hexo,Github都是挺赞的~</p><p>只有要注意Hexo的安装,生成,部署,Github页面的生成都需要一段时间.之前操作了却没有结果,疑惑了很久…</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/11/28/hello-world/"/>
       <url>/2019/11/28/hello-world/</url>
