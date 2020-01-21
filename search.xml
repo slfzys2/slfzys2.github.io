@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>测试插入图片</title>
+      <link href="/2020/01/21/%E6%B5%8B%E8%AF%95%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/"/>
+      <url>/2020/01/21/%E6%B5%8B%E8%AF%95%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</url>
+      
+        <content type="html"><![CDATA[<p>在控制台里输入</p><p>hexo new 名字 </p><p>新建一个记录.</p><p>测试插入图床图片</p><p><img src="https://s2.ax1x.com/2020/01/21/1kRh1e.png" alt="1kRh1e.png"></p><p>hexo g</p><p>生成静态页面</p><p>hexo d</p><p>上传github</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一个记录</title>
       <link href="/2019/12/01/%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%AE%B0%E5%BD%95/"/>
       <url>/2019/12/01/%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%AE%B0%E5%BD%95/</url>
